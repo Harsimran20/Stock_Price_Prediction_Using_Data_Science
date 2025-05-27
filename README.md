@@ -55,6 +55,6 @@ Modify the ticker variable in the code to predict other stock symbols.
 
 ## Project Structure
 .
-├── stock_price_prediction.ipynb   # Jupyter notebook with full code and explanations
-├── README.md                      # This README file
+- ├── stock_price_prediction.ipynb   # Jupyter notebook with full code and explanations
+- ├── README.md                      # This README file
 
